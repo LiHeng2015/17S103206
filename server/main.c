@@ -19,7 +19,6 @@
 #include "config.h"
 #include "thpool.h"
 
-
 extern sqlite3 *db;
 typedef struct
 {
